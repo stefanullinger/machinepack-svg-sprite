@@ -1,0 +1,16 @@
+{
+	"machine": "create-sprite",
+	"expectations": [
+		{
+			"using": {
+				"svgs": [
+					{
+						"id": "circle",
+						"content": "<svg><g><circle /></g></svg>"
+					}
+				]
+			},
+			"outcome": "success"
+		}
+	]
+}

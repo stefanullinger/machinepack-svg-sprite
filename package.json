@@ -1,0 +1,33 @@
+{
+	"name": "machinepack-svg-sprite",
+	"version": "0.1.0",
+	"description": "Create an SVGs sprite from multiple SVG source files.",
+	"scripts": {
+		"test": "node ./node_modules/test-machinepack-mocha/bin/testmachinepack-mocha.js"
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/sullinger/machinepack-svg-sprite"
+	},
+	"keywords": [
+		"SVG sprite",
+		"machines",
+		"machinepack"
+	],
+	"author": "",
+	"license": "MIT",
+	"dependencies": {
+		"cheerio": "^0.19.0",
+		"machine": "^3.0.0"
+	},
+	"devDependencies": {
+		"test-machinepack-mocha": "^0.2.2"
+	},
+	"machinepack": {
+		"friendlyName": "SVG sprite",
+		"machineDir": "machines/",
+		"machines": [
+			"create-sprite"
+		]
+	}
+}
