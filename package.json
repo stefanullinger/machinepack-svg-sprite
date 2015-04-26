@@ -1,6 +1,6 @@
 {
 	"name": "machinepack-svg-sprite",
-	"version": "0.1.0",
+	"version": "0.1.1",
 	"description": "Create an SVGs sprite from multiple SVG source files.",
 	"scripts": {
 		"test": "node ./node_modules/test-machinepack-mocha/bin/testmachinepack-mocha.js"
