@@ -1,23 +1,23 @@
 
 <h1>
   <a href="http://node-machine.org" title="Node-Machine public registry"><img alt="node-machine logo" title="Node-Machine Project" src="http://node-machine.org/images/machine-anthropomorph-for-white-bg.png" width="50" /></a>
-  machinepack-svgsprite
+  machinepack-svg-sprite
 </h1>
 
-### [Docs](http://node-machine.org/machinepack-svgsprite) &nbsp; [Browse other machines](http://node-machine.org/machinepacks) &nbsp;  [FAQ](http://node-machine.org/implementing/FAQ)  &nbsp;  [Newsgroup](https://groups.google.com/forum/?hl=en#!forum/node-machine)
+### [Docs](http://node-machine.org/machinepack-svg-sprite) &nbsp; [Browse other machines](http://node-machine.org/machinepacks) &nbsp;  [FAQ](http://node-machine.org/implementing/FAQ)  &nbsp;  [Newsgroup](https://groups.google.com/forum/?hl=en#!forum/node-machine)
 
 Create an SVGs sprite from multiple SVG source files.
 
 
-## Installation &nbsp; [![NPM version](https://badge.fury.io/js/machinepack-svgsprite.svg)](http://badge.fury.io/js/machinepack-svgsprite) [![Build Status](https://travis-ci.org/mikermcneil/machinepack-svgsprite.png?branch=master)](https://travis-ci.org/mikermcneil/machinepack-svgsprite)
+## Installation &nbsp; [![NPM version](https://badge.fury.io/js/machinepack-svg-sprite.svg)](http://badge.fury.io/js/machinepack-svg-sprite) [![Build Status](https://travis-ci.org/mikermcneil/machinepack-svg-sprite.png?branch=master)](https://travis-ci.org/mikermcneil/machinepack-svg-sprite)
 
 ```sh
-$ npm install machinepack-svgsprite
+$ npm install machinepack-svg-sprite
 ```
 
 ## Usage
 
-For the latest usage documentation, version information, and test status of this module, see <a href="http://node-machine.org/machinepack-svgsprite" title="Create an SVGs sprite from multiple SVG source files. (for node.js)">http://node-machine.org/machinepack-svgsprite</a>.  The generated manpages for each machine contain a complete reference of all expected inputs, possible exit states, and example return values.  If you need more help, or find a bug, jump into [Gitter](https://gitter.im/node-machine/general) or leave a message in the project [newsgroup](https://groups.google.com/forum/?hl=en#!forum/node-machine).
+For the latest usage documentation, version information, and test status of this module, see <a href="http://node-machine.org/machinepack-svg-sprite" title="Create an SVGs sprite from multiple SVG source files. (for node.js)">http://node-machine.org/machinepack-svg-sprite</a>.  The generated manpages for each machine contain a complete reference of all expected inputs, possible exit states, and example return values.  If you need more help, or find a bug, jump into [Gitter](https://gitter.im/node-machine/general) or leave a message in the project [newsgroup](https://groups.google.com/forum/?hl=en#!forum/node-machine).
 
 ## About  &nbsp; [![Gitter](https://badges.gitter.im/Join Chat.svg)](https://gitter.im/node-machine/general?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
