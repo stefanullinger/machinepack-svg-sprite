@@ -4,6 +4,8 @@ module.exports = {
 	friendlyName:        'Create sprite',
 	description:         'Create an SVGs sprite from multiple SVG source files.',
 	extendedDescription: '',
+	cacheable:           true,
+	sync:                true,
 	inputs:              {
 		svgs: {
 			description: 'An array of SVGs to put into the sprite.',
